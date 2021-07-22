@@ -1,6 +1,5 @@
 import ClockBody from "./ClockBody";
 import PropTypes from "prop-types";
-import {logDOM} from "@testing-library/react";
 
 const Clock = (props) => {
   const onDelete = (event) => {
